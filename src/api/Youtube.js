@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyCUnwFabij6qAmUbHtaH0v02CACyFdsRXU';
+const API_KEY = '';
 
 export const baseURL = {
     part: "snippet",
